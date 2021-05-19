@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e3c213a-fa00-487f-8b9f-ac1a29f1b1d3" name="Default Changelist" comment="" />
+    <list default="true" id="7e3c213a-fa00-487f-8b9f-ac1a29f1b1d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P1067.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P1067.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P1563.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P4924.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P4924题解.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P1563.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CppCode/Luogu/Simulation_and_high_precision/P1563.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.lck" beforeDir="false" afterPath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.script" beforeDir="false" afterPath="$PROJECT_DIR$/hsqldb-2.6.0/hsqldb/lib/test.script" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +41,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1s9gAEUqWjEPZojRu5cj4TRGX6C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="hsqldb" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -87,11 +108,19 @@
       <workItem from="1620372432995" duration="17523000" />
       <workItem from="1620470655777" duration="4741000" />
       <workItem from="1620475674000" duration="56000" />
+      <workItem from="1621005267212" duration="870000" />
+      <workItem from="1621169657275" duration="759000" />
+      <workItem from="1621171304432" duration="73000" />
+      <workItem from="1621216055723" duration="657000" />
+      <workItem from="1621426642779" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620373284921">
@@ -102,26 +131,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="455" y="103" key="#jdbcBank/0.0.1536.824@0.0.1536.824" timestamp="1620293965662" />
-    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1620293049178">
+    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1621426713841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620293049178" />
-    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1620475729927">
+    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621426713841" />
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1621006137587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620475729927" />
-    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1620475729927">
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621006137587" />
+    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1621006137586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620475729927" />
-    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1620475729927">
+    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621006137586" />
+    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1621006137586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620475729927" />
-    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1620475729927">
+    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621006137586" />
+    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1621006137586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620475729927" />
+    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621006137586" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1620475542388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -142,10 +171,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620293052207" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1620470655960">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1621426642942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620470655960" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1621426642942" />
+    <state x="178" y="22" key="new project wizard" timestamp="1621426720420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1621426720420" />
     <state x="419" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620474349602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
